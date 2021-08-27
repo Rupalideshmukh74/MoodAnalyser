@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Moodanalyzer\bin\Debug\netcoreapp3.1\Moodanalyzer.exe
+C:\Users\admin\source\repos\Moodanalyzer\bin\Debug\netcoreapp3.1\Moodanalyzer.deps.json
+C:\Users\admin\source\repos\Moodanalyzer\bin\Debug\netcoreapp3.1\Moodanalyzer.runtimeconfig.json
+C:\Users\admin\source\repos\Moodanalyzer\bin\Debug\netcoreapp3.1\Moodanalyzer.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Moodanalyzer\bin\Debug\netcoreapp3.1\Moodanalyzer.dll
+C:\Users\admin\source\repos\Moodanalyzer\bin\Debug\netcoreapp3.1\Moodanalyzer.pdb
+C:\Users\admin\source\repos\Moodanalyzer\obj\Debug\netcoreapp3.1\Moodanalyzer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Moodanalyzer\obj\Debug\netcoreapp3.1\Moodanalyzer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Moodanalyzer\obj\Debug\netcoreapp3.1\Moodanalyzer.AssemblyInfo.cs
+C:\Users\admin\source\repos\Moodanalyzer\obj\Debug\netcoreapp3.1\Moodanalyzer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Moodanalyzer\obj\Debug\netcoreapp3.1\Moodanalyzer.dll
+C:\Users\admin\source\repos\Moodanalyzer\obj\Debug\netcoreapp3.1\Moodanalyzer.pdb
+C:\Users\admin\source\repos\Moodanalyzer\obj\Debug\netcoreapp3.1\Moodanalyzer.genruntimeconfig.cache
